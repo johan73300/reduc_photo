@@ -1,7 +1,7 @@
 # Réduction de toutes les photos d'un dossier
 
 Ce programme consiste à réduire la taille de toutes les images d'un dossier.  
-Cela crée un dossier \<dossier\>\_reduc\_\<pourcentage\> et copie toutes les photos réduites dans celui-ci.  
+Cela crée un dossier à côté et copie toutes les photos réduites dans celui-ci.  
 Pour cela, le programme utilise la commande des commandes du package **Pillow**.
 
 ## Package nécessaires
